@@ -3,15 +3,19 @@ Registry values for enforcement mode Windows 10
 
 # Instalation
 Download *EnableEnforcementMode.reg* file into your computer.
+
 Run (double click.
+
 No reboot required.
+
 Enjoy!
+
 
 
 Due to a critical security problem, Microsoft announced the two-phase vulnerability approach, with the first phase being an update on August 11, 2020, and the second phase being an update to be released in the first quarter of 2021. Until the next update, an additional device security measure is launching the "enforcement" mode of the Domain Controller. 
 
 
-Below is the text from official site:
+# Below is the text from official site (Microsoft):
 https://support.microsoft.com/en-us/help/4557222/how-to-manage-the-changes-in-netlogon-secure-channel-connections-assoc#EnforcementMode
 
 ***Warning 
